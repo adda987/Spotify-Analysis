@@ -3,6 +3,8 @@
 
 Un dashboard interactiv construit cu **Streamlit** care aplică tehnici de analiză a datelor și machine learning pe un dataset de piese Spotify — de la statistici descriptive până la regresie, clasificare și clustering.
 
+ **Live demo:** [spotify-analysis.streamlit.app](https://spotify-analysis-5dj4uvwdw3yxdd76jvvrgn.streamlit.app)
+
 ---
 
 ##  Structura proiectului
